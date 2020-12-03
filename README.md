@@ -37,3 +37,7 @@ docker-compose logs
 ## Usage
 
 You are all set, go to http://localhost:8000/ and have fun.
+
+## Preview
+
+![preview](https://i.imgur.com/JD5mJ9x.png)
